@@ -1,0 +1,96 @@
+body {
+    padding: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    border: 3px solid black;
+    font-style: bold;
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+}
+
+td,
+th {
+    border: 1px solid black;
+    padding: 9px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    background-color: red;
+    font-size: 30px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+thead {
+    font-weight: bold;
+    background-color: silver;
+    text-align: center;
+}
+
+tfoot {
+    background-color: silver;
+    font-weight: bold;
+}
+
+#radek1 {
+    text-align: left;
+    font-weight: bold;
+
+}
+
+#radek2,
+#radek3 {
+    text-align: right;
+    font-weight: bold;
+    color: red;
+}
+
+.l {
+    text-align: right;
+}
+
+caption {
+    background-color: black;
+    color: white;
+    font-size: large;
+    margin-bottom: 10px;
+}
+
+.rimske {
+    list-style-type: upper-roman;
+}
+
+.pismena {
+    list-style-type: lower-latin;
+}
+
+#sez {
+    line-height: 30px;
+}
+
+#popis {
+    line-height: 30px;
+}
+
+.tucne {
+    font-weight: bold;
+}
